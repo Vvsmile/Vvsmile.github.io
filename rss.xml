@@ -2,16 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>Welcome to Qi Shao&#39;s World</title>
-        <subtitle></subtitle>
+        <subtitle>Experience Another Person&#39;s Life Through the Blogs</subtitle>
         <icon>https://www.qshao.cn/images/favicon.ico</icon>
         <link>https://www.qshao.cn</link>
         <author>
           <name>Qi Shao</name>
         </author>
-        <description></description>
-        <language></language>
+        <description>The introduction of a excellent person named Qi Shao</description>
+        <language>zh-CN</language>
         <pubDate>Wed, 22 Feb 2023 14:35:09 +0800</pubDate>
         <lastBuildDate>Wed, 22 Feb 2023 14:35:09 +0800</lastBuildDate>
+        <category term="Qi Shao" />
+        <category term=" 邵奇" />
         <item>
             <guid isPermalink="true">https://www.qshao.cn/2023/02/22/Welcome-to-the-blogs-of-Qi-Shao/</guid>
             <title>Welcome to the blogs of Qi Shao</title>

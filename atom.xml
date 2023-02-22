@@ -2,13 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.qshao.cn</id>
     <title>Welcome to Qi Shao&#39;s World</title>
-    <subtitle></subtitle>
+    <subtitle>Experience Another Person&#39;s Life Through the Blogs</subtitle>
     <icon>https://www.qshao.cn/images/favicon.ico</icon>
     <link href="https://www.qshao.cn" />
     <author>
       <name>Qi Shao</name>
     </author>
     <updated>2023-02-22T06:35:09.000Z</updated>
+    <category term="Qi Shao" />
+    <category term=" 邵奇" />
     <entry>
         <id>https://www.qshao.cn/2023/02/22/Welcome-to-the-blogs-of-Qi-Shao/</id>
         <title>Welcome to the blogs of Qi Shao</title>
