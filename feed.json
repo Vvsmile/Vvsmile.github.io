@@ -12,7 +12,9 @@
             "title": "Welcome to the blogs of Qi Shao",
             "date_published": "2023-02-22T06:35:09.000Z",
             "content_html": "<p>Thank you for your first visitation of my blogs, I don't have time now but I will update this blog on this evening, expect for your visitation at that moment!</p>\n",
-            "tags": []
+            "tags": [
+                "计算机科学"
+            ]
         },
         {
             "id": "https://www.qshao.cn/2023/02/22/hello-world/",
