@@ -1,6 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "Welcome to Qi Shao's World",
+    "subtitle": "",
+    "icon": "https://www.qshao.cn/images/favicon.ico",
     "description": "",
     "home_page_url": "https://www.qshao.cn",
     "items": [

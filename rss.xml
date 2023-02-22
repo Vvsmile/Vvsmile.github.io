@@ -2,7 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>Welcome to Qi Shao&#39;s World</title>
+        <subtitle></subtitle>
+        <icon>https://www.qshao.cn/images/favicon.ico</icon>
         <link>https://www.qshao.cn</link>
+        <author>
+          <name>Qi Shao</name>
+        </author>
         <description></description>
         <language></language>
         <pubDate>Wed, 22 Feb 2023 14:35:09 +0800</pubDate>
